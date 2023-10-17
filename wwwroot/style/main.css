@@ -1,0 +1,11 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+header {
+    text-align: center;
+}
+
+header a {
+    font-weight: 600;
+    font-size: 1.25em;
+}
